@@ -1,2 +1,2 @@
-# Gimble_FacialTrackine
-Gimble_Facial Trackine
+# Gimble_FacialTracking
+Gimble_Facial Tracking
